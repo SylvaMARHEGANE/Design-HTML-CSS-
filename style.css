@@ -1,0 +1,89 @@
+body{
+	background-attachment: fixed;
+	background: #14555865;
+	font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+}
+nav ul{
+	list-style-type: square; /*permet de retirer limg ronde se trouvant de la puce*/
+}
+
+nav a:hover{
+	color: #589;
+	border-bottom: 2px solid #760001; /*soulignement lors du survol*/
+	font-family: 'Arial';
+	}
+
+
+.titre-site{
+	background: #458;
+	font-size: 1.5em;
+	border-radius: 4px;
+	/*display: run-in;*/
+	padding-left: 50px; 
+	margin: 8px;
+	border: 3px solid green;
+}
+.rechercher{
+	float: right;
+	/*font-size: 1em;*/
+	margin-right: 8px;
+	padding-bottom: 5px;
+}
+
+.menus{
+	font-family: 'BallparkWeiner', serif;
+	background-color: #706b64;
+	display: inline-block;
+	float: left;
+	width: 200px;
+	border-radius: 4px;
+	margin: 8px;
+	border: 3px solid green;
+	text-align: left;
+	font-family: fantasy;
+}
+
+.center{
+	background-color: teal;
+	display: inline-block;
+	width: 700px;
+	border-radius: 4px;
+	margin: 8px;
+	padding: 5px;
+	border: 3px solid green;
+	/*background: aqua;*/
+	font-size: 18px;
+	text-align: justify-all;
+	word-wrap: break-word;
+}
+
+.aide{
+	margin: 8px;
+	display:inline-block;
+	border: ;
+
+}
+
+.publicite{
+	background-color: olive;
+	display: inline-block;
+	margin: 8px;
+	width: 300px;
+	border-radius: 4px;
+	border: 3px solid green;
+	text-align: ce;
+	padding: 5px;
+	/*height: 300px;*/
+}
+
+
+.suivez-nous{
+	background-color: silver;
+	margin: 0px 8px 0px 8px;
+	border: 3px solid black;
+	text-align: center;
+	border-radius: 4px;
+	margin-top: 35px;
+}
